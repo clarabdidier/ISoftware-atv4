@@ -1,5 +1,3 @@
-all: bin
-
 bin: main.c 
 	gcc $< -o $@
 
