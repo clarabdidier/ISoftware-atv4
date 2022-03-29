@@ -4,7 +4,7 @@
 ## Clone
 ```bash
 git clone https://github.com/clarabdidier/ISoftware-atv4.git
-cd Software-atv4
+cd ISoftware-atv4
 ```
 
 ## Running
